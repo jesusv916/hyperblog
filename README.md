@@ -1,4 +1,4 @@
-# Hyperblog :fa-reddit-square:
+# Hyperblog 👨‍💻
 Un blog increible para el curso de [Git ](https://git-scm.com/ "Git ")y [Github](https://github.com/ "Github") 
 
 >Ha sido de bastante utilidad el curso de Git y Github, he podido aprender las habilidades necesarias para usar este sistema de control de versiones profesionalmente
