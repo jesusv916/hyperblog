@@ -10,5 +10,6 @@ Un blog increible para el curso de [Git ](https://git-scm.com/ "Git ")y [Github]
 * Flujo de trabajo en [Github](https://github.com/ "Github")
 * Buenas practicas
 * Agregar colaboradores
+* Creado por el increible LGsus
 
 Como recordatorio: **Este readme.md es solo una prueba**. Diseñado como un ejemplo.
