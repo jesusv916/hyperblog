@@ -11,5 +11,6 @@ Un blog increible para el curso de [Git ](https://git-scm.com/ "Git ")y [Github]
 * Buenas practicas
 * Agregar colaboradores
 * Creado por el increible LGsus
+* Incluye ejemplos en windows y Linux
 
 Como recordatorio: **Este readme.md es solo una prueba**. Diseñado como un ejemplo.
